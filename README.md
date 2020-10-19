@@ -3,6 +3,10 @@ Consolidate variable elimination order interfaces and methods for use in graphic
 
 > Note, this is a new package that is currently under development.
 
+# What about Licensing?
+
+This still needs to be resolved, but one suggestion is to expand the number methods based on the user's desire for more restrictive open-source licenses.  See https://github.com/JuliaRobotics/VariableEliminationOrderings.jl/issues/1
+
 # Incorporating Methods
 
 - https://github.com/PetrKryslUCSD/SymRCM.jl
